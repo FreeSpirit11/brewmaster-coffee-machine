@@ -11,6 +11,9 @@ Welcome to the BrewMaster Coffee Machine! This program simulates a coffee machin
 - Keeps track of available resources (water, milk, coffee) and displays a report.
 - Provides an option to turn off the coffee machine.
 
+## Getting Started
+To get started with BrewMaster Coffee Machine, follow these steps:
+
 ### Prerequisites
 
 - Python 3
